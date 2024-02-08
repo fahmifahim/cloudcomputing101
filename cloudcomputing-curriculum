@@ -1,55 +1,57 @@
 Course Structure
-Introduction to Cloud Computing (1 hour)
 
+Introduction to Cloud Computing (1 hour)
 Definition of Cloud Computing
 Cloud Service Models (IaaS, PaaS, SaaS)
 Cloud Deployment Models (Public, Private, Hybrid)
 Benefits and Challenges of Cloud Computing
-Fundamentals of IT Infrastructure (1 hour)
 
+Fundamentals of IT Infrastructure (1 hour)
 Overview of IT Infrastructure
 Components of IT Infrastructure (Hardware, Software, Networking)
 Role of IT Infrastructure in Organizations
-Introduction to Microsoft Azure (1 hour)
 
+Introduction to Microsoft Azure (1 hour)
 Overview of Microsoft Azure
 Azure Services and Products
 Azure vs Other Cloud Providers (AWS, Google Cloud)
-Azure Infrastructure as a Service (IaaS) (2 hours)
 
+Azure Infrastructure as a Service (IaaS) (2 hours)
 Virtual Machines in Azure
 Azure Storage Options
 Networking in Azure (Virtual Networks, VPNs)
 Practical Task: Setting up a Basic VM in Azure
-Azure Platform as a Service (PaaS) and Software as a Service (SaaS) (2 hours)
 
+Azure Platform as a Service (PaaS) and Software as a Service (SaaS) (2 hours)
 Azure App Services
 Azure Database Services
 Azure AI and Machine Learning Services
 Practical Task: Deploying a Simple Web App in Azure
-Security and Compliance in Azure (1 hour)
 
+Security and Compliance in Azure (1 hour)
 Azure Security Center
 Identity and Access Management (IAM)
 Compliance and Privacy Features in Azure
-Azure Management and Monitoring Tools (1 hour)
 
+Azure Management and Monitoring Tools (1 hour)
 Azure Portal and Azure CLI
 Azure Monitor and Azure Service Health
 Practical Task: Monitoring Resources in Azure
-Cloud Solutions with Azure (2 hours)
 
+Cloud Solutions with Azure (2 hours)
 Designing Scalable Solutions in Azure
 Disaster Recovery and High Availability in Azure
 Practical Task: Designing a Scalable Application Architecture
-Case Studies and Real-World Applications (1 hour)
 
+Case Studies and Real-World Applications (1 hour)
 Case Studies of Azure Implementations
 Discussion on Current Trends and Future of Cloud Computing
+
 Practical Tasks
 Lab Setup: Ensure students have Azure accounts with required permissions.
 Hands-On Labs: Throughout the course, integrate practical tasks such as setting up VMs, deploying web applications, and monitoring resources.
 Final Project: Design a small-scale cloud infrastructure using Azure services, focusing on practical application of the learned concepts.
+
 Assessment
 Quizzes: After each major section to assess understanding.
 Practical Exams: Test students' ability to apply concepts in Azure environment.
